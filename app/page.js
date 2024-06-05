@@ -14,14 +14,14 @@ export default function Home() {
         {/* <Link href='/dexa' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
           <Image src='/page-dexa.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
         </Link> */}
+        <Link href='/vespamini' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
+          <Image src='/page-vespa.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
+        </Link>
         <Link href='/disney' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
           <Image src='/page-disney.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
         </Link>
         <Link href='/avatar' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
           <Image src='/page-avatar.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
-        </Link>
-        <Link href='/vespamini' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
-          <Image src='/page-vespa.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
         </Link>
         <Link href='/xxi' rel="noopener noreferrer" target="_blank" className="relative mx-auto flex w-full justify-center items-center">
           <Image src='/page-xxi.jpeg' width={780} height={186} alt='Click|Craze' className='w-full' priority />
