@@ -440,7 +440,7 @@ export default function Register() {
                         </button>
                     </div>
                 } */}
-                <a href='https://www.instagram.com/zirolu.id' target='_blank' className='block text-center text-sm lg:text-2xl mt-2 lg:mt-4 text-white'>Have your own style in mind? contact us through instagram @zirolu.id</a>
+                <a href='https://www.instagram.com/clickcraze' target='_blank' className='block text-center text-sm lg:text-2xl mt-2 lg:mt-4 text-white'>Have your own style in mind? contact us through instagram @ClickCraze</a>
             </div>
             {/* !PILIH STYLE */}
 
